@@ -2,6 +2,12 @@ var books = [
     { author: 'Bill Gates', title: 'The Road Ahead' },
     { author: 'Bill Gates', title: 'The Microsoft Corporation' },
     { author: 'Steve Jobs', title: 'Walter Isaacson' },
+    { author: 'Mario Puzzo', title: 'God Father' },
+    { author: 'Nguyen Nhat Anh', title: 'Mat Biec' },
+    { author: 'Nguyen Hong', title: 'Bi Vo' },
+    { author: 'Dan Brown', title: 'Angel and Devil' },
+    { author: 'Decartes', title: 'Meditaion of first Philosophy' },
+    { author: 'Dan Brown', title: 'Davinci Code' },
     { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games'}
 ]
 
