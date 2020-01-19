@@ -8,6 +8,7 @@ var books = [
     { author: 'Dan Brown', title: 'Angel and Devil' },
     { author: 'Decartes', title: 'Meditaion of first Philosophy' },
     { author: 'Dan Brown', title: 'Davinci Code' },
+    { author: 'CS50', title: 'Intro to computer science' },
     { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games'}
 ]
 
