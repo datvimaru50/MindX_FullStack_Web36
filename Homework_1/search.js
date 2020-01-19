@@ -26,6 +26,7 @@ document.getElementById('btnSearch').addEventListener('click', function(){
         }
     }
 
+    // This is comment of teacher
     if (resultNumber > 0) {
         document.getElementById('resultInfo').innerHTML= `<h3>Found ${resultNumber} results for keyword: <i>${searchQuery}</i></h3>`;
     } else {
